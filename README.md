@@ -45,3 +45,10 @@ Step 5: Editing Your index.html file
  * Give Class Name (Example:CalculatorServlet)
  * Project Name appears Automatically As WebApplication and Location as SourcePackages
  * Package Name in small case (Example-mypack)
+ * Click on Next
+ * In Configure Servlet Development check on the checkbox saying Add information to deployment descriptor
+ * Servlet Name will automatically appear which you previously entered
+ * Click on Finish
+ * Select your Servlet file and write the respective code and execute your file by clicking run project OR F6 
+ * You are ready with your working code :)
+ 
