@@ -29,6 +29,7 @@ Step 4: Frameworks
 *	Uncheck all the four checkbox
 *	Click on Finish
 
+
 Step 5: Editing Your index.html file
 *	Click on Project tab 
 *	Then Click on WebApplication 
@@ -40,4 +41,7 @@ Step 5: Editing Your index.html file
  
  Step 6: Editing 
  * Click on Project Tab-> WebApplication ->SourcePackages 
- * Right Click on 
+ * Right Click on SourcePackages Select Servlet
+ * Give Class Name (Example:CalculatorServlet)
+ * Project Name appears Automatically As WebApplication and Location as SourcePackages
+ * Package Name in small case (Example-mypack)
