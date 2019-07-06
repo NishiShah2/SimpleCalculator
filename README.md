@@ -39,7 +39,7 @@ Step 5: Editing Your index.html file
 * Now write your html code and execute the index.html in same manner
  
  
- Step 6: Editing 
+ Step 6: Editing your java Servlet File
  * Click on Project Tab-> WebApplication ->SourcePackages 
  * Right Click on SourcePackages Select Servlet
  * Give Class Name (Example:CalculatorServlet)
